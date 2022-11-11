@@ -1,0 +1,26 @@
+{
+  "name": "cnsturc-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdashiq18/Cnsturc-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdashiq18/Cnsturc-Api/issues"
+  },
+  "homepage": "https://github.com/mohdashiq18/Cnsturc-Api#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "json": "^11.0.0",
+    "json-server": "^0.17.1",
+    "server": "^1.0.37"
+  }
+}
